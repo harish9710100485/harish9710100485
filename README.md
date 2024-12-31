@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harish
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning ug degree
-- 💞️ I’m looking to collaborate on a good placement
+- 👀 Completed B.Tech Information Technology.
+- 🌱 Currently looking for opportunity to work.
+- 💞️ Proficient in projects like Fullstack,Data Analysis,Power Bi.
 
 
 <!---
